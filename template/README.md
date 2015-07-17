@@ -4,7 +4,7 @@ Global **info.yaml** file is processed to obtain some human friendly *digits* as
 
 Besides, extra basic external information to be included is **GIT COMMIT HASH**. This way *code* and *documentation* are related by this piece of information.
 
-![width=450px](../../image/cmake.png)
+![width=450px](https://github.com/xue2sheng/GenealogicalTree/blob/develop/image/version.png)
 
 <!---
 @startuml cmake.png
